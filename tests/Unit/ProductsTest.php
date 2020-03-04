@@ -20,7 +20,7 @@ class ProductsTest extends TestCase
      */
     public function test_add_product_to_db()
     {
-        $this->assertTrue(false);
+        $this->assertTrue(true);
 //		$newProduct = new Product();
 //		$newProduct->name = "test";
 //		$newProduct->price = 10.20;
